@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Tic-Tac-Toe</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="icon" href="assets/images/favicon.jpg" type="image/png">
+</head>
+<body>
+  <div id="game-container">
+    <!-- Scoreboard -->
+    <header>
+      <div id="scoreboard">
+        <img src="assets/images/blueflower.png" alt="Player 1" class="player-icon"> 
+        <div class="player-score">Player 1: <span id="score1">0</span></div>
+        <img src="assets/images/pinkflower.png" alt="Player 2" class="player-icon">
+        <div class="player-score">Player 2: <span id="score2">0</span></div>
+      </div>
+    </header>
+
+    <!-- Game Board -->
+    <div id="board"></div>
+
+    <!-- Retry Button -->
+    <div id="retrybutton">
+      <button id="retry-btn" class="neon-btn">Retry</button>
+    </div>
+  </div>
+
+  <!-- Background Music -->
+  <audio id="bg-music" src="assets/sounds/MariahCarey.mp3" loop autoplay></audio>
+
+  <!-- JavaScript Files -->
+  <script src="js/game.js"></script>
+  <script src="js/sound.js"></script>
+  <script src="js/animations.js"></script>
+</body>
+</html>
