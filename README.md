@@ -1,6 +1,8 @@
-# New Tic-Tac-Toe 
+# 🪂🩵 New Tic-Tac-Toe 
 
 A modern, neon-themed Tic Tac Toe game with engaging animations and sound effects. Play the classic game with a fresh, vibrant look and feel, designed to bring an exciting experience to players.
+
+---
 
 ## Features
 
@@ -10,11 +12,15 @@ A modern, neon-themed Tic Tac Toe game with engaging animations and sound effect
 - Responsive Design: The game works seamlessly on both desktop and mobile devices.
 - Game Reset: The ability to reset the game after a win or a draw.
 
+---
+
 ## How to Play
 
 1. Two Players: The game is played by two players, each taking turns to place their symbol (X or O) on the 5x5 grid.
 2. Winning the Game: The first player to align three of their symbols horizontally, vertically, or diagonally wins.
 3. Draw: If all squares are filled and no one wins, the game ends in a draw.
+
+---
 
 ## Installation Instructions
 
@@ -28,7 +34,12 @@ A modern, neon-themed Tic Tac Toe game with engaging animations and sound effect
    cd NewTicTacToe
    ```
    
-3. Open `index.html` in your Browser**: You can open the `index.html` file directly in your web browser to play the game.
+3. Open `index.html` in your Browser**:
+   ```
+   You can open the `index.html` file directly in your web browser to play the game.
+   ```
+
+---
 
 ## Technologies Used
 
@@ -36,12 +47,14 @@ A modern, neon-themed Tic Tac Toe game with engaging animations and sound effect
 - CSS: For styling, including responsive design and animations.
 - JavaScript: For game logic, sound effects, and animations.
 
+---
 
 ## Future Features
 
 - Multiplayer Mode: Online play against friends or random opponents.
 
+---
 
-## License
+## MIT License
 
--This project is open-source and available under the MIT License(LICENSE).
+This project is open-source and available under the MIT License(LICENSE).
