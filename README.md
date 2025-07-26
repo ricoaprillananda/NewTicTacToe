@@ -1,4 +1,4 @@
-# 🪂🩵 New Tic-Tac-Toe ✖️❌
+# 🪂🩵✖️❌ New Tic-Tac-Toe 
 
 A modern, neon-themed Tic Tac Toe game with engaging animations and sound effects. Play the classic game with a fresh, vibrant look and feel, designed to bring an exciting experience to players.
 
